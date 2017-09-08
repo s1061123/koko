@@ -13,7 +13,8 @@ import (
 
 	"github.com/vishvananda/netlink"
 	"github.com/MakeNowJust/heredoc"
-	"github.com/redhat-nfvpe/koko/api"
+	//"github.com/redhat-nfvpe/koko/api"
+	"github.com/s1061123/koko/api"
 )
 
 // VERSION indicates koko's version.
